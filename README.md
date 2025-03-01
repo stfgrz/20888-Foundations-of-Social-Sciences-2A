@@ -8,4 +8,4 @@
 
 ### Disclaimer
 
-This is not an official study material and it does not intend to substitute in any way or form the official materials and references provided by Università Bocconi.
+This is not an official study material, nor it does not intend to substitute in any way or form the official materials and references provided by Università Bocconi.
