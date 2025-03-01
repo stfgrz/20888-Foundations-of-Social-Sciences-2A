@@ -6,7 +6,7 @@
 - Stefano Graziosi
 - Federico Mellace
 
-Interested in helping out? Feel free to reach out! Chances are that if you're reading this you already have either my phone number or email.
+Interested in collaborating? Feel free to reach out! Chances are that if you're reading this you already have either my phone number or email.
 
 ### Disclaimer
 
